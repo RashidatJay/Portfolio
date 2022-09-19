@@ -6,4 +6,3 @@ Projects
 Article-nav
 Web Projects-nav
 About nav
-two buttons-check my web projects, check my articles
